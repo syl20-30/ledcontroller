@@ -10,6 +10,7 @@ The LedPixelController accepts 1 unicast broadcast universe, and up to 8 unicast
   - *domain* The name of the domain the ESP will be apart of.
   - *LED_ON* The value to set an enabled channel pin to. (LOW or HIGH, default LOW)
   - *LED_OFF* The value to set a disabled channel pin to. (LOW or HIGH, default HIGH)
+  - *Web server
 
 ### Unicast Universes
 
