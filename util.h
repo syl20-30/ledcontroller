@@ -1,3 +1,5 @@
+// Prepare new version
+
 #ifndef UTIL_H_
 #define UTIL_H_
 
